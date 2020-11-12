@@ -1,0 +1,10 @@
+-d '..\\build\\classes'
+core\Board.java
+core\Constants.java
+core\Disc.java
+core\Game.java
+core\Player.java
+userInterface\BoardUi.java
+userInterface\GameUi.java
+userInterface\OthelloUi.java
+Othello.java
